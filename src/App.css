@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  color: black;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+
+
+.card {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  padding: 2em;
+  border-radius: 10px;
+}
+
+button{
+  margin: 5px;
+  border: 1px solid black;
+}
